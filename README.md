@@ -16,6 +16,5 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/fardouse/fardouse.github.io.git
 
-
 License
 This project is <strong>free to use</strong> and does not contain any license.
