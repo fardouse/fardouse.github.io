@@ -116,14 +116,14 @@ p {
 }
 
 .project-link {
-  color: inherit;
-  text-decoration: none;  
-  transition: color 0.3s;  
+    color: inherit;
+    text-decoration: none;  
+    transition: color 0.3s;  
 }
 
 .project-link:hover {
-  text-decoration: underline; 
-  color:rgb(228, 182, 186)
+    text-decoration: underline; 
+    color:rgb(228, 182, 186)
 }
 
 .home {
