@@ -126,6 +126,15 @@ p {
     color:rgb(228, 182, 186)
 }
 
+.clean-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.clean-link:hover {
+    text-decoration: underline;
+}
+
 .home {
     display: flex;
     font-size: 30px;
