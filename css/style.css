@@ -126,12 +126,12 @@ p {
     color:rgb(228, 182, 186)
 }
 
-.clean-link {
+.company-link {
     text-decoration: none;
     color: inherit;
 }
 
-.clean-link:hover {
+.company-link:hover {
     text-decoration: underline;
 }
 
