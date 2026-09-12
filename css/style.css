@@ -129,10 +129,12 @@ p {
 .company-link {
     text-decoration: none;
     color: inherit;
+    transition: color 0.3s;
 }
 
 .company-link:hover {
     text-decoration: underline;
+    color: rbg(228, 182, 186);
 }
 
 .home {
